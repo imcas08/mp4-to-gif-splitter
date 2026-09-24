@@ -4,7 +4,15 @@ A free, modern, and privacy-first tool to automatically slice videos into smooth
 
 Everything runs **100% client-side** in your web browser — your videos are never uploaded to any server.
 
+> ⚡ *Vibe-coded on **Google Antigravity** using **Gemini 3.8**.*
+
 👉 **[Try the Live Web App](https://imcas08.github.io/mp4-to-gif-splitter/)**
+
+---
+
+## 📺 Video Tutorial
+
+https://github.com/imcas08/mp4-to-gif-splitter/releases/download/v1.0.0/MP4_to_GIF_Splitter_tut.mp4
 
 ---
 
@@ -51,3 +59,7 @@ Drag & drop your video file (`.mp4`, `.webm`, `.mov`) into the upload zone, or c
 3. Review your animated GIFs in the preview gallery:
    - Click **Download GIF** on any card to save that segment.
    - Click **Download All as ZIP (.zip)** to download all segments together.
+
+---
+
+✨ *Crafted & vibe-coded by [Cas](https://casdesign.framer.website/) on **Google Antigravity** powered by **Gemini 3.8**.*
