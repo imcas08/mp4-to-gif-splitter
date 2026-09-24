@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Video & Large Media files (prevent large binary files in git)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Output generated files
+*.gif
+*.zip
+
+# Python & Node
+__pycache__/
+*.py[cod]
+venv/
+env/
+node_modules/
+.env
+
+# IDE
+.vscode/
+.idea/
