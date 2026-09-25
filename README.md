@@ -59,7 +59,3 @@ Drag & drop your video file (`.mp4`, `.webm`, `.mov`) into the upload zone, or c
 3. Review your animated GIFs in the preview gallery:
    - Click **Download GIF** on any card to save that segment.
    - Click **Download All as ZIP (.zip)** to download all segments together.
-
----
-
-✨ *Crafted & vibe-coded by [Cas](https://casdesign.framer.website/) on **Google Antigravity** powered by **Gemini 3.8**.*
